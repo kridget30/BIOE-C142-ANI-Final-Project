@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data files - do not upload ANI dataset
+*.h5
+*.hdf5
+*.npz
+*.npy
+data/
+
+# Large model files
+*.pt
+*.pth
+*.ckpt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.venv/
+venv/
+desktop.ini
