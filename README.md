@@ -45,7 +45,3 @@ figures/
   Report figures, if exported separately
 
 requirements.txt                   Python dependencies
-
-
-```markdown
-The checkpoint PDFs are included to document the model development process, including hyperparameter tuning, production-mode testing, cross-validation, and final held-out test evaluation.
