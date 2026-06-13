@@ -32,7 +32,20 @@ This project was trained and executed on the **Savio** high-performance computin
 ## Repository Structure
 
 ```text
-notebooks/      Jupyter notebooks for project checkpoints
-report/         Final written report
-figures/        Report figures
-requirements.txt
+notebooks/
+  project_ckpt5_final.ipynb        Final executable notebook
+
+reports/
+  final_report.pdf                 Final written report
+  checkpoint3_hyperparameter_tuning.pdf
+  checkpoint4_production_cv.pdf
+  checkpoint5_final_results.pdf
+
+figures/
+  Report figures, if exported separately
+
+requirements.txt                   Python dependencies
+
+
+```markdown
+The checkpoint PDFs are included to document the model development process, including hyperparameter tuning, production-mode testing, cross-validation, and final held-out test evaluation.
