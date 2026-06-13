@@ -42,6 +42,8 @@ reports/
   checkpoint5_final_results.pdf
 
 figures/
-  Report figures, if exported separately
-
+  learning_curve.png
+  parity_plot.png
+  heavy_atom_analysis.png
+  
 requirements.txt                   Python dependencies
